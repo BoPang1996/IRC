@@ -1,0 +1,8 @@
+fvcore
+MinkowskiEngine, s3://bucket-7769-huanan/wx702599/poli/pip_packages/packages/MinkowskiEngine-master
+iopath
+nuscenes-devkit==1.1.9
+pytorch_lightning
+pyquaternion
+spconv==1.2.1
+s3fs

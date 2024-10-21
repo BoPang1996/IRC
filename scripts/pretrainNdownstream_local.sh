@@ -1,0 +1,2 @@
+# python pretrain.py --cfg_file config/slidr_minkunet_local.yaml --working_dir=/home/pb/slidr/outputs/nuscenes/test_shell
+python downstream.py --cfg_file config/semseg_nuscenes_local.yaml --working_dir=/home/pb/slidr/outputs/nuscenes/test_shell/downstream_test --pretraining_path=/home/pb/slidr/outputs/nuscenes/test_shell/model.pt
